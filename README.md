@@ -1,4 +1,4 @@
 # ayan-demo
 This is my first repository.
 <br>
-Author - Ayan Maity
+Author - Ayan Maity (Software Engineer)
